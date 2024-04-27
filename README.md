@@ -1,2 +1,5 @@
 # gpt_history
-simple class to search through chatgpt history and get markdown of results
+
+Export your data from chatgpt in Settings/Data Controls/[Export Data]
+
+Simple, quick, useful. 
